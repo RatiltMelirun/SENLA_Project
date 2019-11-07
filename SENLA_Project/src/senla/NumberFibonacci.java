@@ -9,7 +9,7 @@ public class NumberFibonacci {
 	public void fibonacci() throws IOException {
 		BufferedReader red = new BufferedReader(new InputStreamReader(System.in));
 		
-		System.out.println ("\nНеобходимо написать рекурсивный алгоритм, который находит числа Фибоначчи в пределах \n"
+		System.out.println ("\n\nНеобходимо написать рекурсивный алгоритм, который находит числа Фибоначчи в пределах \n"
 				+ "от 1 до N. N – вводится вручную во время выполнения программы.\n");
 		
 		System.out.print("Укажите размер: ");
