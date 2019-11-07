@@ -9,7 +9,7 @@ public class LineSegments
 	{
 		BufferedReader red = new BufferedReader(new InputStreamReader(System.in));
 		
-		System.out.println ("\nНеобходимо написать программу, которая определяет пересекаются ли два отрезка. \n"
+		System.out.println ("\n\nНеобходимо написать программу, которая определяет пересекаются ли два отрезка. \n"
 				+ "Координаты отрезков вводятся вручную во время выполнения программы.\n");
 		
 		System.out.println("Введите координаты первого отрезка: ");
