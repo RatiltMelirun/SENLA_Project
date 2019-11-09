@@ -14,7 +14,7 @@ public class QCD {
 		System.out.print("Введите первое число: ");
 		int firstNumb = Integer.parseInt(red.readLine());
 
-		System.out.print("Введите 666второе число: ");
+		System.out.print("Введите второе число: ");
 		int secondNumb = Integer.parseInt(red.readLine());
 
 		System.out.println("\nНаименьший общий делитель: " + qcd(firstNumb, secondNumb));
