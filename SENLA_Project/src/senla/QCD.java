@@ -11,7 +11,7 @@ public class QCD {
 		System.out.println("Необходимо написать рекурсивный алгоритм для нахождения НОД и НОК двух чисел. \n"
 				+ "Два числа вводятся вручную во время выполнения программы.\n");
 
-		System.out.print("Введите  первое число: ");
+		System.out.print("Введите 8 первое число: ");
 		int firstNumb = Integer.parseInt(red.readLine());
 
 		System.out.print("Введите второе число: ");
